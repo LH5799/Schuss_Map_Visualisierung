@@ -21,5 +21,5 @@ Folgende Python-Bibliotheken werden verwendet:
 - `numpy`
 
 ## 📊 Beispielergebnis
-Als Beispiel hier die Schuss-Map von Harry Kane aus der Saison 2024/2025:
+Schuss-Map von Harry Kane aus der Saison 2024/2025:
 ![Beispielergebnis](Schussmap_Harry_Kane.png)
